@@ -1,0 +1,33 @@
+_repo: A-Burial-Cave-in-Baja-CaliforniaThe-Palmer-Collection-1887_30385
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Osborne, Carolyn M.
+    gutenberg_agent_id: '34575'
+    url: http://www.gutenberg.org/2009/agents/34575
+  - agent_name: Massey, William C.
+    gutenberg_agent_id: '34574'
+    url: http://www.gutenberg.org/2009/agents/34574
+description: ''
+gutenberg_issued: '2009-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30385'
+  lccn: '61063558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Anthropological Records, Vol. 16, No. 8
+subjects:
+- !lcsh 'Indians of Mexico -- Mexico -- Baja California (Peninsula)'
+- !lcc 'E011'
+- !lcsh 'Baja California (Mexico : Peninsula) -- Antiquities'
+- !lcsh 'Indians of Mexico -- Antiquities'
+title: 'A Burial Cave in Baja California
+
+  The Palmer Collection, 1887'
+url: http://www.gutenberg.org/ebooks/30385
